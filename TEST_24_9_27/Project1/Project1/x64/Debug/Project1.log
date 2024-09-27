@@ -1,0 +1,3 @@
+﻿  csz1.c
+D:\code\TEST_24_9_27\Project1\Project1\csz1.c(7,8): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Project1.vcxproj -> D:\code\TEST_24_9_27\Project1\x64\Debug\Project1.exe
